@@ -20,7 +20,7 @@ A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplc
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhnaDMyeGt0ZG1saGI0MW1ia3kwOG1sbGdlZjUxcmRkdDgwYW01ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
 
    <div id="badges">
-      <a href="https://www.linkedin.com/in/yeasinat/">
+      <a href="https://www.linkedin.com/in/yeasinx/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
       <a href="https://leetcode.com/u/yeasinat/">
@@ -28,11 +28,11 @@ A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplc
       </a>
   </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeasinat&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeasinat&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeasinat&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeasinat&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeasinat&theme=dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeasinx&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeasinx&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeasinx&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeasinx&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeasinx&theme=dark&utcOffset=8)
 
 
 </div>
@@ -40,9 +40,9 @@ A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplc
 
 <!--
 <a content="center" href="https://github.com/yeasinat/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yeasinat&card_width=400&theme=merko"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yeasinx&card_width=400&theme=merko"/>
 </a>
-        <a href="https://discordapp.com/users/yeasinat">
+        <a href="https://discordapp.com/users/yeasinw">
         <img src="https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=Discord" alt="Discord Badge"/>
       </a>
 ### Technologies :
@@ -64,21 +64,21 @@ A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplc
 
 ### Stats :
 <div align="start">
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=yeasinat&theme=blue-green" alt="GitHub Streak" /></a>  
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=yeasinx&theme=blue-green" alt="GitHub Streak" /></a>  
 <div/>
 
 </br>
 </br>
 
-<a content="center" href="https://github.com/Y3ASIN/github-readme-stats">
+<a content="center" href="https://github.com/yeasinx/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Y3ASIN&card_width=400&theme=merko"/>
 </a>
-<a content="center" href="https://github.com/Y3ASIN/convoychat">
+<a content="center" href="https://github.com/yeasinx/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Y3ASIN&layout=compact&card_width=320&theme=merko"/>
 </a>
 
 
-![Snake animation](https://github.com/Y3ASIN/Y3ASIN/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/yeasinx/yeasinx/blob/output/github-contribution-grid-snake-dark.svg)
 
 <hr> -->
 <!-- <a href="https://visitcount.itsvg.in">
