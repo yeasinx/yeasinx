@@ -78,7 +78,7 @@ A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplc
 </a>
 
 
-![Snake animation](https://github.com/yeasinx/yeasinx/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Y3ASIN/Y3ASIN/blob/output/github-contribution-grid-snake-dark.svg)
 
 <hr> -->
 <!-- <a href="https://visitcount.itsvg.in">
