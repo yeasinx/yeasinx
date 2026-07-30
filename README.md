@@ -46,14 +46,14 @@ A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplc
 
   <!-- Side-by-Side Language Breakdowns -->
   <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeasinx&theme=dark" width="48%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeasinx&theme=dark" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeasinx&theme=rose_pine" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeasinx&theme=rose_pine" width="48%" />
   </p>
 
   <!-- Side-by-Side Activity & Commit Stats -->
   <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeasinx&theme=dark&utcOffset=6" width="48%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeasinx&theme=dark" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeasinx&theme=rose_pine&utcOffset=6" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeasinx&theme=rose_pine" width="48%" />
   </p>
 
 </div>
