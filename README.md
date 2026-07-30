@@ -24,12 +24,14 @@ A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplc
   <!-- Badges -->
   <p>
     <a href="https://www.linkedin.com/in/yeasinx/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://leetcode.com/u/yeasinat/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/>
     </a>
   </p>
+
+  
 
   <br />
 
