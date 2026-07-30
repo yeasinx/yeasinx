@@ -16,24 +16,43 @@ A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplc
 <!--![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello%20there..&fontSize=30&reversal=true&fontAlign=50&fontAlignY=35)-->
 
 
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhnaDMyeGt0ZG1saGI0MW1ia3kwOG1sbGdlZjUxcmRkdDgwYW01ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+<div align="center">
 
-   <div id="badges">
-      <a href="https://www.linkedin.com/in/yeasinx/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a href="https://leetcode.com/u/yeasinat/">
-        <img src="https://img.shields.io/badge/LeetCode-gray?style=for-the-badge&logo=LeetCode" alt="LeetCode Badge"/>
-      </a>
-  </div>
+  <!-- Header GIF & Welcome -->
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhnaDMyeGt0ZG1saGI0MW1ia3kwOG1sbGdlZjUxcmRkdDgwYW01ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100" alt="Coding GIF"/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeasinx&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeasinx&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeasinx&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeasinx&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeasinx&theme=dark&utcOffset=8)
+  <!-- Badges -->
+  <p>
+    <a href="https://www.linkedin.com/in/yeasinx/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://leetcode.com/u/yeasinat/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+    </a>
+  </p>
 
+  <br />
+
+  <!-- Hero Profile Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+    <img alt="GitHub Profile Stats" src="dark_mode.svg" width="90%" />
+  </picture>
+
+  <br /><br />
+
+  <!-- Side-by-Side Language Breakdowns -->
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeasinx&theme=dark" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeasinx&theme=dark" width="48%" />
+  </p>
+
+  <!-- Side-by-Side Activity & Commit Stats -->
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeasinx&theme=dark&utcOffset=6" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeasinx&theme=dark" width="48%" />
+  </p>
 
 </div>
 
