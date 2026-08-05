@@ -7,14 +7,17 @@ on:
 permissions:
   contents: write
 
+# Prevents multiple manual/scheduled runs from running at the same time
+concurrency:
+  group: update-gh-ascii
+  cancel-in-progress: true
+
 jobs:
   update-card:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Download latest SVGs
         run: |
@@ -25,9 +28,17 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # 1. Fetch the latest remote changes
+          git fetch origin main
+          
+          # 2. Point local HEAD to remote main without discarding your downloaded SVGs
+          git reset --soft origin/main
+          
+          # 3. Stage and check for actual file changes
           git add dark_mode.svg light_mode.svg
+          
           if ! git diff --staged --quiet; then
             git commit -m "chore: auto-update gh-ascii stats"
-            git pull --rebase origin ${{ github.ref_name }}
-            git push
+            git push origin main
           fi
